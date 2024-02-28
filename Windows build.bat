@@ -1,1 +1,0 @@
-nuitka --onefile --lto=no --report=report.xml --mingw64 --show-progress --show-memory --company-name=ikun --product-name=Onekey --file-version=12.8.0 --product-version=12.8.0 --output-dir=output --windows-icon-from-ico=favicon.ico main.py
