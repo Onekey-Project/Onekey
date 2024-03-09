@@ -9,9 +9,13 @@
 </div>
 
 # Onekey
-Onekey已亡，Pro当立！！！
+Onekey又活了
 
-# 讨论区找方法捏
+## 下载方式
+Release
+Telegram
+QQ
+自行编译（Python311，310，pyinstaller，nuitka）
 
 ## 交流群
 [Telegram](https://t.me/OnekeyProject)  
