@@ -12,9 +12,9 @@
 Onekey又活了
 
 ## 下载方式
-Release
-Telegram
-QQ
+Release  
+Telegram  
+QQ  
 自行编译（Python311，310，pyinstaller，nuitka）
 
 ## 交流群
